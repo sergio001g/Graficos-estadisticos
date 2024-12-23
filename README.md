@@ -1,4 +1,4 @@
-# Estadisticas Pastel Barras v3
+# Estadisticas Pastel Barras 
 
 ## Descripcion
 
