@@ -20,7 +20,7 @@ Esta es una aplicacion web que muestra estadisticas usando graficos de pastel y 
 
 ## Notas importantes
 
-- Si la aplicacion no corre, definitivamente no es mi culpa. Culpa a tu computadora, al clima, o a la alineacion de los planetas.
+- Si la aplicacion no corre. Culpa de tu computadora.
 - No me hago responsable por la perdida de tiempo mirando graficos bonitos en lugar de hacer trabajo real.
 - Si encuentras un bug, felicidades! Acabas de descubrir una caracteristica no documentada.
 
