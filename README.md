@@ -25,7 +25,7 @@ Esta es una aplicacion web que muestra estadisticas usando graficos de pastel y 
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Si puedes hacer que esto funcione mejor, eres oficialmente un mago.
+Las contribuciones son bienvenidas. Si puedes hacer que esto funcione mejor GRACIAS
 
 ## Licencia
 
